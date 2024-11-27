@@ -3,7 +3,7 @@
 html{
     scroll-behavior: smooth;
 }
-
+/* #B85042, #E7E8D1, #A7BEAE */
 *{
     margin: 0;
     padding: 0;
@@ -67,18 +67,18 @@ footer .top ul{
 }
 
 nav button{
-    color: #1c1e53;
+    color: #6A040F;
     background-color: transparent;
     padding: 12px 16px;
     border-radius: 5px;
-    border: 1px solid #1c1e53;
+    border: 1px solid #8A7952;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 nav button:hover{
-    background-color: #5e3bee;
-    border-color: #5e3bee;
+    background-color: #6A040F;
+    border-color: #8A7952;
     color: #fff;
 }
 
@@ -91,7 +91,7 @@ nav button#menuButton{
 }
 
 .main{
-    background-color: #deebee;
+    background-color: #E7E8D1;
     padding: 90px 85px;
     display: flex;
     align-items: center;
@@ -112,7 +112,7 @@ nav button#menuButton{
 }
 
 .main .left h3 span{
-    color: #5e3bee;
+    color: #B85042;
 }
 
 .main .left p{
@@ -125,7 +125,8 @@ nav button#menuButton{
     margin-top: 40px;
     color: #fff;
     cursor: pointer;
-    background-color: #5e3bee;
+    background-color: #6A040F;
+    border-color: #8A7952;
     padding: 14px 24px;
     border: 1px solid transparent;
     border-radius: 5px;
