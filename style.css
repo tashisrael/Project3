@@ -155,7 +155,7 @@ nav button#menuButton{
 }
 
 .skills .skill-items .item{
-    background-color: #A7BEAE;
+    background-color: #deebee;
     width: 25%;
     border-radius: 10px;
     padding: 32px;
@@ -165,7 +165,7 @@ nav button#menuButton{
 }
 
 .skills .skill-items .item:hover{
-    border-color: #5e3bee;
+    border-color: #B85042;
 }
 
 .skills .skill-items .item .icon{
@@ -182,7 +182,7 @@ nav button#menuButton{
 
 .skills .skill-items .item .icon i{
     font-size: 26px;
-    color: #006b6a;
+    color: #B85042;
 }
 
 .skills .skill-items .item h4,
@@ -220,7 +220,7 @@ nav button#menuButton{
 }
 
 .portfolio{
-    background-color: #deebee;
+    background-color: #E7E8D1;
     padding: 110px 85px;
 }
 
@@ -264,7 +264,7 @@ nav button#menuButton{
 }
 
 .portfolio .portfo-items .item:hover{
-    border-color: #5e3bee;
+    border-color: #B85042;
 }
 
 .portfolio .portfo-items .item img{
@@ -324,7 +324,7 @@ nav button#menuButton{
 }
 
 .feedback .customers .item:hover{
-    border-color: #5e3bee;
+    border-color: #B85042;
 }
 
 .feedback .customers .item p{
@@ -356,7 +356,7 @@ nav button#menuButton{
 }
 
 footer{
-    background-color: #deebee;
+    background-color: #E7E8D1;
     padding: 85px;
     display: flex;
     flex-direction: column;
